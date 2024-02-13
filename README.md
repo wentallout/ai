@@ -1,5 +1,9 @@
 # ai
 
-## AI art
+## AI Art
 
-Learning ComfyUI right now cuz that 1111 thing is kinda lame.
+Use ComfyUI or Fooocus right now cuz that 1111 thing is kinda lame.
+
+## AI Coding
+
+[Leaderboard](https://evalplus.github.io/leaderboard.html)
